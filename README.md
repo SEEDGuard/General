@@ -1,5 +1,7 @@
 # SEEDGuard
 
+![SEEDGuard Icon](./imgs/icon.png)
+
 > *It's impossible to have trustworthy AI without good data for AI models to learn.*
 
 The vision of SEEDGuard is to provide a platform for researchers and practitioners to share and discuss data-centric methods for improving the quality of software engineering datasets.
@@ -13,8 +15,6 @@ The vision of SEEDGuard is to provide a platform for researchers and practitione
   - [Contributing](#contributing)
   - [Contact](#contact)
   - [License](#license)
-
-
 
 ## Vision of SEEDGuard
 
@@ -35,6 +35,7 @@ The workflow of SEEDGuard is shown in the following figure:
 Similar to the data in other domains, the data in software engineering also suffers from various quality issues. For example, limited high-quality labeled data, data privacy issues, data imbalance, etc. Moreover, SE data also has its own unique quality issues especially relate to code. For example, code used for training LLM can be poisoned to mislead developers to use insecure code.
 
 We are actively expanding the list of SE data quality issues. If you have any suggestions, please feel free to open an issue or pull request. Currently, we mainly focus on the following SE data quality issues:
+
 - SE Data Security
 - SE Data Privacy
 - SE Data Augmentation
@@ -62,6 +63,7 @@ If you are interested in a specific data-centric method, you can:
 - find the specific dataset (with its documentations) mentioned in the paper
 
 In short, at the end of this step, you should have a clear idea about:
+
 - which dataset
 - which data-centric method
 - which data aspect
@@ -80,7 +82,6 @@ We provide a standard evaluation framework for evaluating the data-centric metho
 ## Contact
 
 If you have any questions, please feel free to contact us via email [bxu22@ncsu.edu](bxu22@ncsu.edu) or open an issue.
-
 
 ## License
 
